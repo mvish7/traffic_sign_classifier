@@ -4,10 +4,10 @@ This project contains the tensorflow based neural network for classification of 
 
 # Dependencies
 
-Python 3.x
-Matplotlib
-Sklearn
-Tensorflow 1.x
+* Python 3.x
+* Matplotlib
+* Sklearn
+* Tensorflow 1.x
 
 # Steps:
 
@@ -72,7 +72,7 @@ My final results include,
 Initial results showed lot of overfitting as validation accuracy was stagnant @ 87%, fine tuning of dropout layers boosted the validation accuracy.
 Below are the graphs of Training/Validation accuracy/losses vs Epochs.
 
-![alt text][graphs]
+![alt text](https://github.com/mvish7/traffic_sign_classifier/tree/master/images/graphs.png)
 
 ## Improvements:
 
